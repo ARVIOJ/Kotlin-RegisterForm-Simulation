@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Example2</string>
+    <string name="app_title1">Register Form</string>
+    <string name="user_name">Name:</string>
+    <string name="user_email">Email:</string>
+    <string name="user_phone">Phone:</string>
+    <string name="user_age">Age:</string>
+
+    <string name="hint_name">Type your full name</string>
+    <string name="hint_email">Type your email of UAEH</string>
+    <string name="hint_phone">Type your cell phone</string>
+    <string name="hint_age">Type your actually age</string>
+
+    <string name="button_exit">Exit</string>
+    <string name="button_send">Send</string>
+
+    <string name="button_back">Back</string>
+
+    <string name="app_title2">Data received</string>
+    <string name="textview">TextView</string>
+
+</resources>
